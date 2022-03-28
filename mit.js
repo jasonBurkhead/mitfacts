@@ -5,3 +5,5 @@ var mit = {
     founded: 1900,
     motto: 'Carpe diem',
 };
+
+module.exports = mit;
